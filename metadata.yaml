@@ -1,0 +1,49 @@
+_repo: What-I-Saw-in-America_27250
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Chesterton, G. K. (Gilbert Keith)
+    aliases:
+    - Chesterton, Gilbert Keith
+    - Chesterton, Gilbert K. (Gilbert Keith)
+    birthdate: 1874
+    deathdate: 1936
+    gutenberg_agent_id: '80'
+    url: http://www.gutenberg.org/2009/agents/80
+    wikipedia: http://en.wikipedia.org/wiki/G._K._Chesterton
+description: Cover; Title Page; Copyright; Contents; What is America?; A Meditation
+  in a New York Hotel; A Meditation in Broadway; Irish and other Interviewers; Some
+  American Cities; In the American Country; The American Business Man; Presidents
+  and Problems; Prohibition in Fact and Fancy; Fads and Public Opinion; The Extraordinary
+  American; The Republican in the Ruins; Is the Atlantic Narrowing?; Lincoln and Lost
+  Causes; Wells and the World State; A New Martin Chuzzlewit; The Spirit of America;
+  The Spirit of England; The Future of Democracy.
+gutenberg_bookshelf: Travel
+gutenberg_issued: '2008-11-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27250'
+  lccn: '22018523'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- Description and travel'
+- !lcsh 'United States -- Civilization -- 1918-1945'
+- !lcsh 'United States -- Social life and customs -- 1918-1945'
+- !lcc 'E151'
+- !lcsh 'National characteristics, American'
+- !lcsh 'Chesterton, G. K. (Gilbert Keith), 1874-1936 -- Travel -- United States'
+tableOfContents: What is America? -- A meditation in a New York hotel -- A meditation
+  in Broadway -- Irish and other interviewers -- Some American cities -- In the American
+  country -- The American business man -- Presidents and problems -- Prohibition in
+  fact and fancy -- Fads and public opinion -- The extraordinary American -- The Republican
+  in the ruins -- Is the Atlantic narrowing? -- Lincoln and lost causes -- Wells and
+  the world state -- A new Martin Chuzzlewit -- The spirit of America -- The spirit
+  of England -- The future of democracy.
+title: What I Saw in America
+url: http://www.gutenberg.org/ebooks/27250
